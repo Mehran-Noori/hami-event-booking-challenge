@@ -43,6 +43,8 @@ DJANGO_APPS = [
 ]
 LOCAL_APPS = [
     "users",
+    "bookings",
+    "events",
 ]
 THIRD_PARTY_APPS = [
     "rest_framework",
