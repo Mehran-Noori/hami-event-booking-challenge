@@ -67,3 +67,5 @@ Thumbs.db
 *.swp
 *.swo
 *~
+
+celerybeat-schedule-*
